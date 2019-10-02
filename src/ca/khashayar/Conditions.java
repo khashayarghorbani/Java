@@ -103,7 +103,6 @@ public class Conditions {
                 break;
             default:
                 System.out.println("ops there is no such thing!");
-
         }
     }
 }
