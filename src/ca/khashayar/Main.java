@@ -8,7 +8,8 @@ public class Main {
     //Global static variables are automatically initialized with value
     // 0 or false
     public static void main(String[] args) {
-        Variables.variables();
-       Conditions.condition();
+       // Variables.variables();
+       //Conditions.condition();
+        Loop.Loop();
     }
 }

@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edd97956-3ae9-41c7-aba0-c61b153fa199" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/khashayar/Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/khashayar/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyProgram/ca/khashayar/Loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/khashayar/Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MyProgram/ca/khashayar/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyProgram/ca/khashayar/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ca/khashayar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/khashayar/Main.java" afterDir="false" />
